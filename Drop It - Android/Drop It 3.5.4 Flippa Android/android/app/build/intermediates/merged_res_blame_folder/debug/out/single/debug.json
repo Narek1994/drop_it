@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.rai.dropitdown.app-merged_res-23:/layout-land_consent.xml.flat",
+        "source": "com.rai.dropitdown.app-main-25:/layout-land/consent.xml"
+    },
+    {
+        "merged": "com.rai.dropitdown.app-merged_res-23:/drawable-xxhdpi_icon.png.flat",
+        "source": "com.rai.dropitdown.app-main-25:/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "com.rai.dropitdown.app-merged_res-23:/drawable-xhdpi_icon.png.flat",
+        "source": "com.rai.dropitdown.app-main-25:/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "com.rai.dropitdown.app-merged_res-23:/drawable_icon.png.flat",
+        "source": "com.rai.dropitdown.app-main-25:/drawable/icon.png"
+    },
+    {
+        "merged": "com.rai.dropitdown.app-merged_res-23:/drawable-hdpi_icon.png.flat",
+        "source": "com.rai.dropitdown.app-main-25:/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "com.rai.dropitdown.app-merged_res-23:/layout_main.xml.flat",
+        "source": "com.rai.dropitdown.app-main-25:/layout/main.xml"
+    },
+    {
+        "merged": "com.rai.dropitdown.app-merged_res-23:/drawable-xxxhdpi_icon.png.flat",
+        "source": "com.rai.dropitdown.app-main-25:/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "com.rai.dropitdown.app-merged_res-23:/drawable-ldpi_icon.png.flat",
+        "source": "com.rai.dropitdown.app-main-25:/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "com.rai.dropitdown.app-merged_res-23:/layout_fragment_consent_detail.xml.flat",
+        "source": "com.rai.dropitdown.app-main-25:/layout/fragment_consent_detail.xml"
+    },
+    {
+        "merged": "com.rai.dropitdown.app-merged_res-23:/layout_consent.xml.flat",
+        "source": "com.rai.dropitdown.app-main-25:/layout/consent.xml"
+    },
+    {
+        "merged": "com.rai.dropitdown.app-merged_res-23:/layout_consent_item.xml.flat",
+        "source": "com.rai.dropitdown.app-main-25:/layout/consent_item.xml"
+    },
+    {
+        "merged": "com.rai.dropitdown.app-merged_res-23:/drawable_spacer.png.flat",
+        "source": "com.rai.dropitdown.app-main-25:/drawable/spacer.png"
+    },
+    {
+        "merged": "com.rai.dropitdown.app-merged_res-23:/drawable_consent_top_icon.png.flat",
+        "source": "com.rai.dropitdown.app-main-25:/drawable/consent_top_icon.png"
+    },
+    {
+        "merged": "com.rai.dropitdown.app-merged_res-23:/drawable-mdpi_icon.png.flat",
+        "source": "com.rai.dropitdown.app-main-25:/drawable-mdpi/icon.png"
+    }
+]

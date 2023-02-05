@@ -1,0 +1,26 @@
+com.rai.dropitdown.app-work-runtime-2.1.0-0 /Users/rai/.gradle/caches/transforms-3/10bfdd5053c1e2f1030221fd2a09ad4e/transformed/work-runtime-2.1.0/res
+com.rai.dropitdown.app-constraintlayout-2.0.4-1 /Users/rai/.gradle/caches/transforms-3/269e4029f92be0f4884805b72f00e70b/transformed/constraintlayout-2.0.4/res
+com.rai.dropitdown.app-fragment-1.3.6-2 /Users/rai/.gradle/caches/transforms-3/29bdfe4f1619e457b1b22ec172982bb4/transformed/fragment-1.3.6/res
+com.rai.dropitdown.app-core-1.5.0-3 /Users/rai/.gradle/caches/transforms-3/4cb2d3ae910a25e4d3b75b6b0d8d1b11/transformed/core-1.5.0/res
+com.rai.dropitdown.app-preference-1.1.1-4 /Users/rai/.gradle/caches/transforms-3/62c8ae69c95c9ecf28eae07b7b818a7e/transformed/preference-1.1.1/res
+com.rai.dropitdown.app-jetified-play-services-basement-17.6.0-5 /Users/rai/.gradle/caches/transforms-3/62f8058b7746dcd4c9853ff439da02b8/transformed/jetified-play-services-basement-17.6.0/res
+com.rai.dropitdown.app-recyclerview-1.0.0-6 /Users/rai/.gradle/caches/transforms-3/80982afc3ffacfd3e547d41c135be4d5/transformed/recyclerview-1.0.0/res
+com.rai.dropitdown.app-coordinatorlayout-1.0.0-7 /Users/rai/.gradle/caches/transforms-3/9799da5c1e0689f1193d2bfe97eafa0b/transformed/coordinatorlayout-1.0.0/res
+com.rai.dropitdown.app-jetified-play-services-ads-20.3.0-8 /Users/rai/.gradle/caches/transforms-3/a537580629b4bf8cdbda6efbc1dc1cfb/transformed/jetified-play-services-ads-20.3.0/res
+com.rai.dropitdown.app-lifecycle-runtime-2.3.1-9 /Users/rai/.gradle/caches/transforms-3/c952d0b8ff75b964d5e2a94e673b2da3/transformed/lifecycle-runtime-2.3.1/res
+com.rai.dropitdown.app-jetified-appcompat-resources-1.3.1-10 /Users/rai/.gradle/caches/transforms-3/cb76beae9058e06c079e98d21713b79b/transformed/jetified-appcompat-resources-1.3.1/res
+com.rai.dropitdown.app-jetified-savedstate-1.1.0-11 /Users/rai/.gradle/caches/transforms-3/ce48164422c3447ff8a6246b4d8ea9c1/transformed/jetified-savedstate-1.1.0/res
+com.rai.dropitdown.app-lifecycle-viewmodel-2.3.1-12 /Users/rai/.gradle/caches/transforms-3/d6364469d2dca85a8f85e8beeb73ccf4/transformed/lifecycle-viewmodel-2.3.1/res
+com.rai.dropitdown.app-appcompat-1.3.1-13 /Users/rai/.gradle/caches/transforms-3/dc76b0e3b38f48e10b9290d411e4a34b/transformed/appcompat-1.3.1/res
+com.rai.dropitdown.app-browser-1.0.0-14 /Users/rai/.gradle/caches/transforms-3/dd4805b85c0fb10fd8a7f2b1f789c60b/transformed/browser-1.0.0/res
+com.rai.dropitdown.app-jetified-play-services-base-17.6.0-15 /Users/rai/.gradle/caches/transforms-3/ecb98a09efebd2b159ded559dea838f5/transformed/jetified-play-services-base-17.6.0/res
+com.rai.dropitdown.app-jetified-play-services-ads-lite-20.3.0-16 /Users/rai/.gradle/caches/transforms-3/ff3ebc533344c737a2dd2ecc04617ab0/transformed/jetified-play-services-ads-lite-20.3.0/res
+com.rai.dropitdown.app-jetified-aob_sessionreporting-17 /Users/rai/Desktop/Drop It 3.5.4 Flippa Android/android/aob_sessionreporting/build/.transforms/87a6cfe54ebd2895190f5c73ca96648e/transformed/jetified-aob_sessionreporting/res
+com.rai.dropitdown.app-pngs-18 /Users/rai/Desktop/Drop It 3.5.4 Flippa Android/android/app/build/generated/res/pngs/release
+com.rai.dropitdown.app-resValues-19 /Users/rai/Desktop/Drop It 3.5.4 Flippa Android/android/app/build/generated/res/resValues/release
+com.rai.dropitdown.app-rs-20 /Users/rai/Desktop/Drop It 3.5.4 Flippa Android/android/app/build/generated/res/rs/release
+com.rai.dropitdown.app-mergeReleaseResources-21 /Users/rai/Desktop/Drop It 3.5.4 Flippa Android/android/app/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.rai.dropitdown.app-mergeReleaseResources-22 /Users/rai/Desktop/Drop It 3.5.4 Flippa Android/android/app/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.rai.dropitdown.app-merged_res-23 /Users/rai/Desktop/Drop It 3.5.4 Flippa Android/android/app/build/intermediates/merged_res/release
+com.rai.dropitdown.app-main-24 /Users/rai/Desktop/Drop It 3.5.4 Flippa Android/android/app/src/main/res
+com.rai.dropitdown.app-release-25 /Users/rai/Desktop/Drop It 3.5.4 Flippa Android/android/app/src/release/res
